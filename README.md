@@ -9,6 +9,8 @@
 ## Lab 2
 - [Задание](https://github.com/ugapanyuk/ml_course_2020/wiki/LAB_MMO__PANDAS)
 
+## Lab 3
+- [Задание](https://github.com/ugapanyuk/ml_course_2020/wiki/LAB_MMO_MISSING)
 
 ## RK 1
 - [Задание](./rk1/task.md)
