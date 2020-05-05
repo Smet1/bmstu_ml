@@ -1,4 +1,5 @@
 **/rk1/us-education/
+.vscode
 test.ipynb
 tmp.ipynb
 # Created by https://www.gitignore.io/api/macos,python,pycharm+all,jupyternotebooks,visualstudiocode
