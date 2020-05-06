@@ -5,12 +5,19 @@
 
 ## Lab 1
 - [Задание](https://github.com/ugapanyuk/ml_course_2020/wiki/LAB_MMO__EDA_VISUALIZATION)
+- [Лабораторная](./lab1/wine.ipynb)
+- [Отчет](./lab1/отчет.pdf)
 
 ## Lab 2
 - [Задание](https://github.com/ugapanyuk/ml_course_2020/wiki/LAB_MMO__PANDAS)
+- [Лабораторная](./lab2/lab2.ipynb)
+- [Отчет](./lab2/отчет.pdf)
 
 ## Lab 3
 - [Задание](https://github.com/ugapanyuk/ml_course_2020/wiki/LAB_MMO_MISSING)
+- [Лабораторная](./lab3/lab3.ipynb)
+- [Отчет](./lab3/отчет.pdf)
 
 ## RK 1
 - [Задание](./rk1/task.md)
+- [Отчет](./rk1/rk1.pdf)
