@@ -1,3 +1,7 @@
+*.pages
+титульник.pdf
+lab.pdf
+
 **/rk1/us-education/
 .vscode
 test.ipynb
