@@ -18,6 +18,12 @@
 - [Лабораторная](./lab3/lab3.ipynb)
 - [Отчет](./lab3/отчет.pdf)
 
+## Lab 4
+- [Задание](https://github.com/ugapanyuk/ml_course_2020/wiki/LAB_MMO_KNN)
+- [dataset](https://www.kaggle.com/shree1992/housedata?select=data.csv)
+- [Лабораторная](./lab4/house_price.ipynb)
+- [Отчет](./lab4/отчет.pdf)
+
 ## RK 1
 - [Задание](./rk1/task.md)
 - [Отчет](./rk1/rk1.pdf)
