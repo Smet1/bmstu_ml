@@ -24,6 +24,12 @@
 - [Лабораторная](./lab4/house_price.ipynb)
 - [Отчет](./lab4/отчет.pdf)
 
+## Lab 5
+- [Задание](https://github.com/ugapanyuk/ml_course_2020/wiki/LAB_MMO_TREES)
+- [dataset](https://www.kaggle.com/shree1992/housedata?select=data.csv)
+- [Лабораторная](./lab5/lab5.ipynb)
+- [Отчет](./lab5/отчет.pdf)
+
 ## RK 1
 - [Задание](./rk1/task.md)
 - [Отчет](./rk1/rk1.pdf)
