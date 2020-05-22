@@ -39,3 +39,8 @@
 ## RK 1
 - [Задание](./rk1/task.md)
 - [Отчет](./rk1/rk1.pdf)
+
+## RK 2
+- [Задание](https://github.com/ugapanyuk/ml_course_2020/wiki/MMO_RK_2)
+- [Отчет](./rk2/rk2.pdf)
+- [dataset](./rk2/states_all.csv)
