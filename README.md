@@ -44,3 +44,8 @@
 - [Задание](https://github.com/ugapanyuk/ml_course_2020/wiki/MMO_RK_2)
 - [Отчет](./rk2/rk2.pdf)
 - [dataset](./rk2/states_all.csv)
+
+## ДЗ
+- [Задание](https://github.com/ugapanyuk/ml_course_2020/wiki/MMO_DZ)
+- [Отчет](./hw/hw.pdf)
+- [dataset](https://www.kaggle.com/shree1992/housedata?select=data.csv)
